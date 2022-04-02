@@ -2,7 +2,7 @@
 To build a sentiment analysis and prediction system for social media content,  provide people with an additional function or feature to really know the sentiment behind the content and based on prediction models the unnecessary messages based on religion, igniting a group or a caste of people can be avoided by predicting the sentiment and then deciding on whether to display the content or not which can help us maintain peace and humanity.
 
 
-Objective
+OBJECTIVES :
 The objectives of this project are:
 To analyse the trends and the contents of a social media platform.
 To conduct sentiment analysis of contents from social media datasets.
